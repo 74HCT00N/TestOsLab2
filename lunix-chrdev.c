@@ -4,8 +4,8 @@
  * Implementation of character devices
  * for Lunix:TNG
  *
- * Danassis Panayiotis
- * Aronis Panagiotis
+ * Thodoris Paparrigopoulos
+ * Sachlikis Stefanos
  *
  */
 
